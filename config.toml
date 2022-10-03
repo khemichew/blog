@@ -1,0 +1,23 @@
+baseURL = 'https://www.doc.ic.ac.uk/'
+
+theme = 'hugo-bearblog'
+
+title = "Khemi's blog"
+author = 'Khemi'
+copyright = "Copyright © 2022, Khemi."
+languageCode = 'en-gb'
+
+enableRobotsTXT = true
+
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+blog = "/:slug/"
+tags = "/blog/:slug"
+
+[params]
+# Used for Hugo's internal opengraph structured
+# data template
+title = "Khemi's blog"
+# favicon =
+# images = []

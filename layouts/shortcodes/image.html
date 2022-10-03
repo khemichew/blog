@@ -1,0 +1,14 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $caption := .Get "caption" }}
+
+<link rel="stylesheet" href="/css/style.css">
+
+<figure class="center">
+  <img
+      src="{{ $src }}"
+      alt="{{ $alt }}"
+      decoding="async"
+  />
+  <figcaption>{{ $caption }}</figcaption>
+</figure>
