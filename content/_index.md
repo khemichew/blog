@@ -7,4 +7,5 @@ stuff I find interesting and how things work the way they do.
 The articles represent my personal findings and may not be wholly accurate
 (I do try to cross-check thoroughly!).
 
-You can reach me via [email](mailto:khemichew01@gmail.com) if you want to contact me. 
+You can reach me via [email](mailto:khemichew01@gmail.com), or find my 
+CV [here](/docs/resume.pdf).
